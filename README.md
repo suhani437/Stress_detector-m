@@ -1,1 +1,0 @@
-# Stress_detector-main
